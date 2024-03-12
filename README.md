@@ -1,1 +1,1 @@
-# IBM-FullStack-JavaScript-Capstone
+# coding-project-template
